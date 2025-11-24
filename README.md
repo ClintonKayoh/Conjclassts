@@ -611,9 +611,9 @@ in the Software without restriction...
 ## 📧 Contact
 
 **Clinton Oluranran Kayoh**
-- GitHub: [@yourusername](https://github.com/ClintonKayoh)
+- GitHub: [@ClintonKayoh](https://github.com/ClintonKayoh)
 - Email: kayohclinton@gmail.com
-- Research Gate: [Your Profile](https://www.researchgate.net/profile/ClintonKayoh)
+- Research Gate: [Clinton Kayoh](https://www.researchgate.net/profile/ClintonKayoh)
 
 ### Support
 - 📮 Issues: [GitHub Issues](https://github.com/ClintonKayoh/conjclassts/issues)
