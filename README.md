@@ -75,7 +75,7 @@ pip install conjclassts
 
 ### Install from Source
 ```bash
-git clone https://github.com/yourusername/conjclassts.git
+git clone https://github.com/ClintonKayoh/conjclassts.git
 cd conjclassts
 pip install -r requirements.txt
 pip install -e .
