@@ -564,7 +564,7 @@ We welcome contributions! Here's how you can help:
 
 ### Development Setup
 ```bash
-git clone https://github.com/yourusername/conjclassts.git
+git clone https://github.com/ClintonKayoh/conjclassts.git
 cd conjclassts
 pip install -r requirements-dev.txt
 pytest tests/
@@ -581,7 +581,7 @@ If you use this package in your research, please cite:
   author = {Clinton Oluranran Kayoh},
   title = {Conjclassts: A Python Package for Enumerating Conjugacy Classes in Transformation Semigroups},
   year = {2025},
-  url = {https://github.com/yourusername/conjclassts},
+  url = {https://github.com/ClintonKayoh/conjclassts},
   version = {1.0.0}
 }
 ```
@@ -611,13 +611,13 @@ in the Software without restriction...
 ## 📧 Contact
 
 **Clinton Oluranran Kayoh**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- Email: your.email@example.com
-- Research Gate: [Your Profile](https://www.researchgate.net/profile/your-profile)
+- GitHub: [@yourusername](https://github.com/ClintonKayoh)
+- Email: kayohclinton@gmail.com
+- Research Gate: [Your Profile](https://www.researchgate.net/profile/ClintonKayoh)
 
 ### Support
-- 📮 Issues: [GitHub Issues](https://github.com/yourusername/conjclassts/issues)
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/conjclassts/discussions)
+- 📮 Issues: [GitHub Issues](https://github.com/ClintonKayoh/conjclassts/issues)
+- 💬 Discussions: [GitHub Discussions](https://github.com/ClintonKayoh/conjclassts/discussions)
 - 📚 Documentation: [Read the Docs](https://conjclassts.readthedocs.io) (coming soon)
 
 ---
