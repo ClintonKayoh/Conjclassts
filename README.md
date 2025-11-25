@@ -618,7 +618,7 @@ in the Software without restriction...
 ### Support
 - 📮 Issues: [GitHub Issues](https://github.com/ClintonKayoh/conjclassts/issues)
 - 💬 Discussions: [GitHub Discussions](https://github.com/ClintonKayoh/conjclassts/discussions)
-- 📚 Documentation: [Read the Docs](https://conjclassts.readthedocs.io) (coming soon)
+- 📚 Documentation: [Read the Docs](https://clinton-oluranran-kayoh.netlify.app/software) (Official documentation coming soon)
 
 ---
 
